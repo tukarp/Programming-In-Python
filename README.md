@@ -1,1 +1,1 @@
-# Programowanie-W-Pythonie
+# Programowanie W Pythonie
