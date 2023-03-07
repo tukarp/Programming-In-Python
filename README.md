@@ -30,6 +30,24 @@
 - [Lab 14](#laboratorium-14)
 - [Lab 15](#laboratorium-15)
 
+### Rozwiązania
+
+- [Lab 01](https://github.com/tukarp/Programming-In-Python/tree/main/Laboratoria/Lab%2001)
+- [Lab 02](https://github.com/tukarp/Programming-In-Python/tree/main/Laboratoria/Lab%2002)
+- [Lab 03](https://github.com/tukarp/Programming-In-Python/tree/main/Laboratoria/Lab%2003)
+- [Lab 04](https://github.com/tukarp/Programming-In-Python/tree/main/Laboratoria/Lab%2004)
+- [Lab 05](https://github.com/tukarp/Programming-In-Python/tree/main/Laboratoria/Lab%2005)
+- [Lab 06](https://github.com/tukarp/Programming-In-Python/tree/main/Laboratoria/Lab%2006)
+- [Lab 07](https://github.com/tukarp/Programming-In-Python/tree/main/Laboratoria/Lab%2007)
+- [Lab 08](https://github.com/tukarp/Programming-In-Python/tree/main/Laboratoria/Lab%2008)
+- [Lab 09](https://github.com/tukarp/Programming-In-Python/tree/main/Laboratoria/Lab%2009)
+- [Lab 10](https://github.com/tukarp/Programming-In-Python/tree/main/Laboratoria/Lab%2010)
+- [Lab 11](https://github.com/tukarp/Programming-In-Python/tree/main/Laboratoria/Lab%2011)
+- [Lab 12](https://github.com/tukarp/Programming-In-Python/tree/main/Laboratoria/Lab%2012)
+- [Lab 13](https://github.com/tukarp/Programming-In-Python/tree/main/Laboratoria/Lab%2013)
+- [Lab 14](https://github.com/tukarp/Programming-In-Python/tree/main/Laboratoria/Lab%2014)
+- [Lab 15](https://github.com/tukarp/Programming-In-Python/tree/main/Laboratoria/Lab%2015)
+
 ### Materiały
 
 - [Wprowadzenie do języka Python](https://github.com/tukarp/Programming-In-Python/blob/main/Materia%C5%82y/Wprowadzenie%20do%20j%C4%99zyka%20Python.pdf)
