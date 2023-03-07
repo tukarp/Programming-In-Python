@@ -39,30 +39,61 @@
 
 ## Laboratorium 01
 
+[Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2001/Program%201.py)
+
 ## Laboratorium 02
+
+[Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2002/Program%201.py)
 
 ## Laboratorium 03
 
+[Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2003/Program%201.py)
+
 ## Laboratorium 04
+
+[Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2004/Program%201.py)
 
 ## Laboratorium 05
 
+[Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2005/Program%201.py)
+
 ## Laboratorium 06
+
+[Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2006/Program%201.py)
 
 ## Laboratorium 07
 
+[Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2007/Program%201.py)
+
 ## Laboratorium 08
+
+[Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2008/Program%201.py)
 
 ## Laboratorium 09
 
+[Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2009/Program%201.py)
+
 ## Laboratorium 10
+
+[Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2010/Program%201.py)
 
 ## Laboratorium 11
 
+[Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2011/Program%201.py)
+
 ## Laboratorium 12
+
+[Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2012/Program%201.py)
 
 ## Laboratorium 13
 
+[Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2013/Program%201.py)
+
 ## Laboratorium 14
 
+[Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2014/Program%201.py)
+
 ## Laboratorium 15
+
+[Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2015/Program%201.py)
+
