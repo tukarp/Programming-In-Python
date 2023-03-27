@@ -47,60 +47,60 @@
 
 ## Laboratorium 01
 
-[Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2001)
+### [Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2001)
 
 ## Laboratorium 02
 
-[Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2002)
+### [Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2002)
 
 ## Laboratorium 03
 
-[Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2003)
+### [Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2003)
 
 ## Laboratorium 04
 
-[Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2004)
+### [Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2004)
 
 ## Laboratorium 05
 
-[Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2005)
+### [Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2005)
 
 ## Laboratorium 06
 
-[Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2006)
+### [Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2006)
 
 ## Laboratorium 07
 
-[Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2007)
+### [Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2007)
 
 ## Laboratorium 08
 
-[Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2008)
+### [Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2008)
 
 ## Laboratorium 09
 
-[Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2009)
+### [Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2009)
 
 ## Laboratorium 10
 
-[Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2010)
+### [Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2010)
 
 ## Laboratorium 11
 
-[Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2011)
+### [Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2011)
 
 ## Laboratorium 12
 
-[Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2012)
+### [Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2012)
 
 ## Laboratorium 13
 
-[Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2013)
+### [Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2013)
 
 ## Laboratorium 14
 
-[Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2014)
+### [Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2014)
 
 ## Laboratorium 15
 
-[Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2015)
+### [Rozwiązanie](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2015)
