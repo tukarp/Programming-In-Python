@@ -2,6 +2,16 @@
 
 ## Spis Treści
 
+### Wykłady
+
+- [Wykład 01](https://github.com/tukarp/Programming-In-Python/blob/main/Wyk%C5%82ad/Wyk%C5%82ad%2001.ipynb)
+- [Wykład 02](https://github.com/tukarp/Programming-In-Python/blob/main/Wyk%C5%82ad/Wyk%C5%82ad%2002.ipynb)
+- [Wykład 03](https://github.com/tukarp/Programming-In-Python/blob/main/Wyk%C5%82ad/Wyk%C5%82ad%2003.ipynb)
+- [Wykład 04](https://github.com/tukarp/Programming-In-Python/blob/main/Wyk%C5%82ad/Wyk%C5%82ad%2004.ipynb)
+- [Wykład 05](https://github.com/tukarp/Programming-In-Python/blob/main/Wyk%C5%82ad/Wyk%C5%82ad%2005.ipynb)
+- [Wykład 06](https://github.com/tukarp/Programming-In-Python/blob/main/Wyk%C5%82ad/Wyk%C5%82ad%2006.ipynb)
+- [Wykład 07](https://github.com/tukarp/Programming-In-Python/blob/main/Wyk%C5%82ad/Wyk%C5%82ad%2007.ipynb)
+
 ### Laboratoria
 
 - [Laboratorium 01](#laboratorium-01)
