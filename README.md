@@ -1,4 +1,4 @@
-# Programming In Python
+# Programowanie w Pythonie
 
 ## Spis Treści
 
