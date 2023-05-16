@@ -34,3 +34,9 @@
 
 - [Wprowadzenie do języka Python](https://github.com/tukarp/Programming-In-Python/blob/main/Materia%C5%82y/Wprowadzenie%20do%20j%C4%99zyka%20Python.pdf)
 - [SQLTAB](https://github.com/tukarp/Programming-In-Python/blob/main/Materia%C5%82y/sqltab.png)
+
+### Notatki
+
+
+
+# Notatki
