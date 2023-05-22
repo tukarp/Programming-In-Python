@@ -1,6 +1,6 @@
 # Programowanie w Pythonie
 
-## Spis Treści
+## Spis treści
 
 ### Laboratoria
 
