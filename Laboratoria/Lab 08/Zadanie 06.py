@@ -8,7 +8,9 @@ import numpy as np
 # poprzez obliczanie ich następnych wartości
 # za pomocą algorytmu "Game of Life"
 def anim(frame):
+    # Ustawienie globalnej zmiennej Z
     global Z
+    # Skopiowanie Z do Z_new
     Z_new = Z.copy()
     for i in range(size):
         for j in range(size):
@@ -36,9 +38,11 @@ def anim(frame):
                 else:
                     # Komórka się nie rodzi
                     Z_new[i, j] = 0
-
+    # Ustaw wartość macierzy
     mat.set_data(Z_new)
+    # Ustaw wartość Z
     Z = Z_new
+    # Zwróć macierz
     return mat
 
 

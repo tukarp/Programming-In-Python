@@ -6,10 +6,10 @@ import numpy as np
 
 # Funkcja animująca punkty na wykresie
 def anima(frame):
-    x = frame
-    y = 0
-    point.set_data([x], [y])
-    return point
+    x = frame  # Ustawienie x jako klatka animacji
+    y = 0  # Ustawienie y jako 0
+    point.set_data([x], [y])  # Ustawienie danych punktu
+    return point  # Zwróć punkt
 
 
 # Zaadresowanie zmiennych

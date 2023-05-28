@@ -12,9 +12,9 @@ def init():
 
 # Funkcja animująca punkty na wykresie
 def anima(frame):
-    x = frame
-    y = np.sin(frame)
-    scat.set_offsets([x, y])
+    x = frame  # Ustawienie x jako klatka animacji
+    y = np.sin(frame)  # Ustawienie y jako sinus od klatki animacji
+    scat.set_offsets([x, y])  # Wyrysowanie x i y
 
 
 # Zaadresowanie zmiennych

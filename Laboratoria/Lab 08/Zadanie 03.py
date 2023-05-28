@@ -8,7 +8,7 @@ import numpy as np
 def anima(frame):
     y[:-1] = y[1:]
     y[-1] = np.sin(2 * np.pi * frame / 100)
-    scat.set_data([x, y])
+    scat.set_data([x, y])  # Wyrysowanie x i y
 
 
 # Zaadresowanie zmiennych
