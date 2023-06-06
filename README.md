@@ -4,6 +4,7 @@
 
 ### Laboratoria
 
+- [Laboratoria](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria)
 - [Laboratorium 01](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2001)
 - [Laboratorium 02](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2002)
 - [Laboratorium 03](https://github.com/tukarp/Programming-In-Python/blob/main/Laboratoria/Lab%2003)
@@ -22,13 +23,23 @@
 
 ### Wykłady
 
-- [Wykład 01](https://github.com/tukarp/Programming-In-Python/blob/main/Wyk%C5%82ad/Wyk%C5%82ad%2001.ipynb)
-- [Wykład 02](https://github.com/tukarp/Programming-In-Python/blob/main/Wyk%C5%82ad/Wyk%C5%82ad%2002.ipynb)
-- [Wykład 03](https://github.com/tukarp/Programming-In-Python/blob/main/Wyk%C5%82ad/Wyk%C5%82ad%2003.ipynb)
-- [Wykład 04](https://github.com/tukarp/Programming-In-Python/blob/main/Wyk%C5%82ad/Wyk%C5%82ad%2004.ipynb)
-- [Wykład 05](https://github.com/tukarp/Programming-In-Python/blob/main/Wyk%C5%82ad/Wyk%C5%82ad%2005.ipynb)
-- [Wykład 06](https://github.com/tukarp/Programming-In-Python/blob/main/Wyk%C5%82ad/Wyk%C5%82ad%2006.ipynb)
-- [Wykład 07](https://github.com/tukarp/Programming-In-Python/blob/main/Wyk%C5%82ad/Wyk%C5%82ad%2007.ipynb)
+- [Wykłady](https://github.com/tukarp/Programming-In-Python/blob/main/Wyk%C5%82ady)
+- [Wykład 01](https://github.com/tukarp/Programming-In-Python/blob/main/Wyk%C5%82ady/Wyk%C5%82ad%2001.ipynb)
+- [Wykład 02](https://github.com/tukarp/Programming-In-Python/blob/main/Wyk%C5%82ady/Wyk%C5%82ad%2002.ipynb)
+- [Wykład 03](https://github.com/tukarp/Programming-In-Python/blob/main/Wyk%C5%82ady/Wyk%C5%82ad%2003.ipynb)
+- [Wykład 04](https://github.com/tukarp/Programming-In-Python/blob/main/Wyk%C5%82ady/Wyk%C5%82ad%2004.ipynb)
+- [Wykład 05](https://github.com/tukarp/Programming-In-Python/blob/main/Wyk%C5%82ady/Wyk%C5%82ad%2005.ipynb)
+- [Wykład 06](https://github.com/tukarp/Programming-In-Python/blob/main/Wyk%C5%82ady/Wyk%C5%82ad%2006.ipynb)
+- [Wykład 07](https://github.com/tukarp/Programming-In-Python/blob/main/Wyk%C5%82ady/Wyk%C5%82ad%2007.ipynb)
+
+### Projekty
+
+- [Projekty](https://github.com/tukarp/Programming-In-Python/blob/main/Projekty)
+- [Automat komórkowy](https://github.com/tukarp/Programming-In-Python/blob/main/Projekty/Automat%20kom%C3%B3rkowy.py)
+- [Generator Animacji Fraktali ze Zbioru Julii](https://github.com/tukarp/Programming-In-Python/blob/main/Projekty/Generator%20Animacji%20Fraktali%20ze%20Zbioru%20Julii.py)
+- [Paprotka Bransleya](https://github.com/tukarp/Programming-In-Python/blob/main/Projekty/Paprotka%20Bransleya.ipynb)
+- [Trójkąt Sierpińskiewgo](https://github.com/tukarp/Programming-In-Python/blob/main/Projekty/Tr%C3%B3jk%C4%85t%20Sierpi%C5%84skiewgo.ipynb)
+- []()
 
 ### Materiały
 
