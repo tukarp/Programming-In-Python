@@ -1,3 +1,7 @@
+# Programowanie w Pythonie
+# Projekt 05
+# Generator Fraktali ze Zbioru Mandelbrota z użyciem kolejki
+
 # Importowanie bibliotek
 from multiprocessing import Process
 from multiprocessing import Queue
