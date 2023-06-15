@@ -39,7 +39,7 @@
 - [Generator Animacji Fraktali ze Zbioru Julii](https://github.com/tukarp/Programming-In-Python/blob/main/Projekty/Generator%20Animacji%20Fraktali%20ze%20Zbioru%20Julii.py)
 - [Paprotka Bransleya](https://github.com/tukarp/Programming-In-Python/blob/main/Projekty/Paprotka%20Bransleya.ipynb)
 - [Trójkąt Sierpińskiewgo](https://github.com/tukarp/Programming-In-Python/blob/main/Projekty/Tr%C3%B3jk%C4%85t%20Sierpi%C5%84skiewgo.ipynb)
-- [Laboratoria/Lab 12/Generator Fraktali ze Zbioru Mandelbrota z użyciem kolejki.py]()
+- [Laboratoria/Lab 12/Generator Fraktali ze Zbioru Mandelbrota z użyciem kolejki.py](https://github.com/tukarp/Programming-In-Python/blob/main/Projekty/Generator%20Fraktali%20ze%20Zbioru%20Mandelbrota%20z%20u%C5%BCyciem%20kolejki.py)
 
 ### Materiały
 
