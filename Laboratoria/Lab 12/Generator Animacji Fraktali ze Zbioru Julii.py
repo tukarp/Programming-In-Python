@@ -3,12 +3,14 @@ from matplotlib.animation import FuncAnimation
 import matplotlib.pyplot as plt
 import numpy as np
 
+
 # Funkcja animująca punkty fraktali ze zbioru Julii na wykresie
 def animate_fractal(frame):
     global z  # Ustawienie z jako zmiennej globalnej
     result[np.abs(z) > 2] = frame  # Ustawianie wartości w tablicy wynikowej dla punktów spoza zbioru
     z = z ** 2 + c  # Obliczanie kolejnych wartości z dla zbioru Julii
     plot.set_array(result)  # Aktualizacja klatki animacji na wykresie
+
 
 # Ustawienie parametru c dla zbioru Julii
 c = -0.7 + 0.27015j
