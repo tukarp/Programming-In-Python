@@ -1,6 +1,6 @@
 # Programowanie w Pythonie
 # Projekt 01
-# Automat komórkowy
+# Automat Komórkowy
 
 # Importowanie bibliotek
 from matplotlib.animation import FuncAnimation
