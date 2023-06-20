@@ -2,6 +2,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
+
 # Zaadresowanie zmiennych
 n = 100  # Wielkość wykresu
 linear_space = np.linspace(0, n, n)  # Przestrzeń liniowa wykresu
