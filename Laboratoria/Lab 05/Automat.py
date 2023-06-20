@@ -2,6 +2,7 @@
 # Importowanie biblioteki
 import random
 
+
 # Wprowadzenie danych
 rule = int("01011010", 2)   # Reguła
 n = 80                      # Długość ciągu
